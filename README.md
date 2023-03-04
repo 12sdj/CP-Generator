@@ -46,4 +46,4 @@
 ## 程序    
 ### 兼容性   
 目前程序已兼容Windows 7及以下的Windows 版本，但是程序在Windows 7上的程序显示效果会受到限制  
-有关程序兼容性问题，请留意Issues中的兼容性报告   
+有关程序兼容性问题，请留意Issues中的[兼容性报告](https://github.com/12sdj/CP-Generator/issues/2)
